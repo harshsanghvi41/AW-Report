@@ -1,4 +1,6 @@
 # Adventure Works Report using Power BI
+## Abstract:
+This report can help company tracks core business KPIs(sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecast, and also identify high valued customers.
 
 ## Sales Summary(Page1):
 - I created a slicer with “between” style to choose the Time Period so that users can get the sales summary for any specific time period. 
