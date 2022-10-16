@@ -1,6 +1,8 @@
-# Adventure Works Report using Power BI
+# Sales Analysis
 ## Abstract:
 This report can help company tracks core business KPIs(sales, revenue, profit, returns), compare regional performance, analyze product-level trends and forecast, and also identify high valued customers.
+
+[Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYTQ2MGNmZmQtMjBjZC00ZWFlLWFmYjItODY1NjU0OTMwNWIyIiwidCI6IjNlOGI3ODRiLTNlZTktNDQ1Mi05NDU0LWQzMjVmNDgxMTYyMiJ9)
 
 ## Report
 ### Sales Summary
