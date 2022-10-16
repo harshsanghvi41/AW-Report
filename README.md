@@ -23,3 +23,13 @@ This report can help company tracks core business KPIs(sales, revenue, profit, r
 - I created a Line and Clustered Column Chart to display the orders and revenue by month so that users can tell when the specific customer ordered products and how much revenue they contributed for those products.
 
 - I created a bookmark for the first report page and inserted a right arrow so that users can easily return to the sales summary page.
+
+# Report
+## Exec Summary
+<img width="576" alt="image" src="https://user-images.githubusercontent.com/46412015/196026352-9c328e2f-fa0d-48cf-8821-cc63b01aade4.png">
+
+## Product Detail
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/46412015/196026130-c7c09e96-5ca8-424e-b2b1-91d822f2cbfa.png">
+
+## Customer Detail
+<img width="623" alt="Customer Detail" src="https://user-images.githubusercontent.com/46412015/196026062-444b1ad8-eee9-4dd7-ac5d-625a8b1ae7c3.png">
